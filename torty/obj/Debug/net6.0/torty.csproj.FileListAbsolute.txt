@@ -1,0 +1,15 @@
+C:\Users\gramo\source\repos\torty\torty\bin\Debug\net6.0\torty.exe
+C:\Users\gramo\source\repos\torty\torty\bin\Debug\net6.0\torty.deps.json
+C:\Users\gramo\source\repos\torty\torty\bin\Debug\net6.0\torty.runtimeconfig.json
+C:\Users\gramo\source\repos\torty\torty\bin\Debug\net6.0\torty.dll
+C:\Users\gramo\source\repos\torty\torty\bin\Debug\net6.0\torty.pdb
+C:\Users\gramo\source\repos\torty\torty\obj\Debug\net6.0\torty.csproj.AssemblyReference.cache
+C:\Users\gramo\source\repos\torty\torty\obj\Debug\net6.0\torty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gramo\source\repos\torty\torty\obj\Debug\net6.0\torty.AssemblyInfoInputs.cache
+C:\Users\gramo\source\repos\torty\torty\obj\Debug\net6.0\torty.AssemblyInfo.cs
+C:\Users\gramo\source\repos\torty\torty\obj\Debug\net6.0\torty.csproj.CoreCompileInputs.cache
+C:\Users\gramo\source\repos\torty\torty\obj\Debug\net6.0\torty.dll
+C:\Users\gramo\source\repos\torty\torty\obj\Debug\net6.0\refint\torty.dll
+C:\Users\gramo\source\repos\torty\torty\obj\Debug\net6.0\torty.pdb
+C:\Users\gramo\source\repos\torty\torty\obj\Debug\net6.0\torty.genruntimeconfig.cache
+C:\Users\gramo\source\repos\torty\torty\obj\Debug\net6.0\ref\torty.dll
